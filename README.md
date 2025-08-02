@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hello! I'm Maaz Khan
 
-<!--
-**maazkhano/maazkhano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Computer Science Graduate | 🇵🇰  
+🤖 Machine Learning & AI Enthusiast  
+📊 Turning real-world data into actionable insights  
+📍 Currently working on health-focused ML projects like depression detection
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages**: Python, SQL, Markdown  
+- **Libraries**: Pandas, Scikit-learn, NumPy, Matplotlib, Seaborn  
+- **Tools**: Git, GitHub, Jupyter Notebook, Kaggle  
+
+---
+
+## 🚀 Featured Project
+
+🔬 **Mental Health Depression Detection**  
+A supervised ML project analyzing mental health indicators using Scikit-learn pipelines.  
+📎 [View on Kaggle](https://www.kaggle.com/code/maazkhan636/mental-health-depression-detection-using-ml/notebook)
+
+---
+
+## 🌐 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/maazkhano)  
+- 🧠 [Kaggle](https://www.kaggle.com/maazkhan636)  
+- 💬 DM for collaboration, ideas, or mentorship!
+
+---
+
+⭐️ *Thanks for visiting! Feel free to star or fork any of my projects.*
