@@ -1,42 +1,44 @@
-# 👋 Hello! I'm Maaz Khan
+# 👋 Hello! I'm Maaz Khan  
 
 🎓 BS Computer Science Graduate | 🇵🇰  
-🤖 Machine Learning & AI Enthusiast  
-📊 Passionate about applying AI to solve real-world challenges  
-📍 Currently focusing on **Sentiment Analysis for Mental Health Monitoring**
+🤖 AI, Machine Learning & Deep Learning Enthusiast  
+📊 Passionate about transforming data into actionable insights  
+📍 Focused on health-focused AI projects like **Sentiment Analysis for Mental Health Monitoring**  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-- **Languages**: Python, SQL, Markdown  
-- **Libraries**: Pandas, Scikit-learn, NumPy, Matplotlib, Seaborn  
-- **Tools**: Git, GitHub, Jupyter Notebook, Kaggle  
+- **Programming Languages**: Python, SQL, R  
+- **Machine Learning**: Scikit-learn, XGBoost, LightGBM  
+- **Deep Learning**: TensorFlow, Keras, PyTorch  
+- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+- **Natural Language Processing (NLP)**: NLTK, SpaCy, Hugging Face Transformers  
+- **AI Applications**: Sentiment Analysis, Mental Health Monitoring, Predictive Modeling  
+- **Tools & Platforms**: Jupyter Notebook, Google Colab, Kaggle, Git & GitHub  
+- **Databases**: MySQL, SQLite  
+- **Other Skills**: Data Cleaning, Feature Engineering, Model Evaluation, Model Deployment (Streamlit/FastAPI basics)  
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects  
 
-🔬 **Sentiment Analysis for Mental Health Monitoring**  
-A research-based project leveraging ML & DL to analyze text sentiment and identify signs of depression or stress.  
-📎 *Coming soon on GitHub (in progress)*  
-
-📱 **Mental Health Depression Detection (ML)**  
-Supervised ML project analyzing mental health indicators with Scikit-learn pipelines.  
+🔬 **Mental Health Depression Detection**  
+A supervised ML project analyzing mental health indicators using Scikit-learn pipelines.  
 📎 [View on Kaggle](https://www.kaggle.com/code/maazkhan636/mental-health-depression-detection-using-ml/notebook)  
 
-📊 **Mobile Price Prediction**  
-Built regression models to predict mobile phone prices using real-world datasets. 
+🧠 **Sentiment Analysis for Mental Health Monitoring**  
+Deep Learning + NLP project analyzing user text to monitor stress, depression, and anxiety indicators.  
+📎 *(Coming Soon on GitHub)*  
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Let's Connect  
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/maazkhano)  
 - 🧠 [Kaggle](https://www.kaggle.com/maazkhan636)  
-- 💻 [GitHub](https://github.com/maazkhano)  
-- 💬 Open to collaborations, research, and innovative ideas!
+- 💬 DM for collaboration, ideas, or mentorship!  
 
 ---
 
-⭐️ *Thanks for visiting! Feel free to star or fork any of my projects.*
+⭐ *Thanks for visiting! Feel free to star or fork any of my projects.*  
