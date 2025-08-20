@@ -2,8 +2,8 @@
 
 🎓 BS Computer Science Graduate | 🇵🇰  
 🤖 Machine Learning & AI Enthusiast  
-📊 Turning real-world data into actionable insights  
-📍 Currently working on health-focused ML projects like depression detection
+📊 Passionate about applying AI to solve real-world challenges  
+📍 Currently focusing on **Sentiment Analysis for Mental Health Monitoring**
 
 ---
 
@@ -17,9 +17,16 @@
 
 ## 🚀 Featured Project
 
-🔬 **Mental Health Depression Detection**  
-A supervised ML project analyzing mental health indicators using Scikit-learn pipelines.  
-📎 [View on Kaggle](https://www.kaggle.com/code/maazkhan636/mental-health-depression-detection-using-ml/notebook)
+🔬 **Sentiment Analysis for Mental Health Monitoring**  
+A research-based project leveraging ML & DL to analyze text sentiment and identify signs of depression or stress.  
+📎 *Coming soon on GitHub (in progress)*  
+
+📱 **Mental Health Depression Detection (ML)**  
+Supervised ML project analyzing mental health indicators with Scikit-learn pipelines.  
+📎 [View on Kaggle](https://www.kaggle.com/code/maazkhan636/mental-health-depression-detection-using-ml/notebook)  
+
+📊 **Mobile Price Prediction**  
+Built regression models to predict mobile phone prices using real-world datasets. 
 
 ---
 
@@ -27,7 +34,8 @@ A supervised ML project analyzing mental health indicators using Scikit-learn pi
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/maazkhano)  
 - 🧠 [Kaggle](https://www.kaggle.com/maazkhan636)  
-- 💬 DM for collaboration, ideas, or mentorship!
+- 💻 [GitHub](https://github.com/maazkhano)  
+- 💬 Open to collaborations, research, and innovative ideas!
 
 ---
 
