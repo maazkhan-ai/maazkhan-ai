@@ -16,7 +16,6 @@
 - **Natural Language Processing (NLP)**: NLTK, SpaCy, Hugging Face Transformers  
 - **AI Applications**: Sentiment Analysis, Mental Health Monitoring, Predictive Modeling  
 - **Tools & Platforms**: Jupyter Notebook, Google Colab, Kaggle, Git & GitHub  
-- **Databases**: MySQL, SQLite  
 - **Other Skills**: Data Cleaning, Feature Engineering, Model Evaluation, Model Deployment (Streamlit/FastAPI basics)  
 
 ---
