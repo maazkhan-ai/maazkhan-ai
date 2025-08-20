@@ -2,7 +2,7 @@
 
 🎓 BS Computer Science Graduate | 🇵🇰  
 🤖 AI, Machine Learning & Deep Learning Enthusiast  
-📊 Passionate about transforming data into actionable insights, Skilled in **Machine Learning, Deep Learning, and NLP** 
+📊 Passionate about transforming data into actionable insights, Skilled in **Machine Learning, Deep Learning, and NLP**
 🌱 Currently working on **Sentiment Analysis for Mental Health Monitoring**   
 🤝 Open to collaboration on **AI, ML, and Research Projects**
  
