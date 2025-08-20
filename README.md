@@ -2,7 +2,7 @@
 
 🎓 BS Computer Science Graduate | 🇵🇰  
 🤖 AI, Machine Learning & Deep Learning Enthusiast  
-📊 Passionate about transforming data into actionable insights, Skilled in **Machine Learning, Deep Learning, and NLP**
+📊 Passionate about transforming data into actionable insights, Skilled in **Machine Learning, Deep Learning, and NLP**   
 🌱 Currently working on **Sentiment Analysis for Mental Health Monitoring**   
 🤝 Open to collaboration on **AI, ML, and Research Projects**
  
@@ -30,6 +30,9 @@ A supervised ML project analyzing mental health indicators using Scikit-learn pi
 🧠 **Sentiment Analysis for Mental Health Monitoring**  
 Deep Learning + NLP project analyzing user text to monitor stress, depression, and anxiety indicators.  
 📎 *(Coming Soon on GitHub)*  
+
+💡 **More Projects Coming Soon...**
+Currently working on Deep Learning models and advanced AI applications.
 
 ---
 
