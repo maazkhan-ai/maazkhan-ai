@@ -38,13 +38,13 @@ Welcome to my GitHub profile! I'm a passionate **AI/ML Engineer** with a knack f
   [View on Kaggle](https://www.kaggle.com/code/maazkhan636/mental-health-depression-detection-using-ml/notebook) | [GitHub link](https://github.com/maazkhan-ai/mental-health-depression-detection)
 
  **More Projects Coming Soon...**  
-  *Check out my [Repositories](https://github.com/maazkhan-ai?tab=repositories) for more projects!*
+  *Check out my [Repositories](https://github.com/maazkhan-ai/repositories) for more projects!*
 
 ---
 
 ## Get in Touch
 -  [Email](mailto:maazkhan.9ai@gmail.com)
--  [LinkedIn](https://www.linkedin.com/in/maazkhan.ai)  
+-  [LinkedIn](https://www.linkedin.com/in/maazkhan-ai)  
 -  [Kaggle](https://www.kaggle.com/maazkhan636)  
 -  I'm always excited to collaborate on AI/ML projects or discuss the latest advancements in the field!
 
