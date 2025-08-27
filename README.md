@@ -34,13 +34,13 @@ A supervised ML project analyzing mental health indicators using Scikit-learn pi
 Deep Learning + NLP project analyzing user text to monitor stress, depression, and anxiety indicators.  
  *(Coming Soon on GitHub)*  
 
-**More Projects Coming Soon...**
- *Check out my [Repositories](#) for more projects!*
+**More Projects Coming Soon...**  
+ *Check out my [Repositories](https://github.com/maazkhan-ai?tab=repositories) for more projects!*
 
 ---
 
 ## Get in Touch
--  [Email] [maazkhan.9ai@gmail.com]
+-  [Email](mailto:maazkhan.9ai@gmail.com)
 -  [LinkedIn](https://www.linkedin.com/in/maazkhan.ai)  
 -  [Kaggle](https://www.kaggle.com/maazkhan636)  
 -  I'm always excited to collaborate on AI/ML projects or discuss the latest advancements in the field!
