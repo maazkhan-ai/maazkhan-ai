@@ -25,17 +25,22 @@ Welcome to my GitHub profile! I'm a passionate **AI/ML Engineer** with a knack f
 
 ## Featured Projects  
 
-**Mental Health Depression Detection**  
-A supervised ML project analyzing mental health indicators using Scikit-learn pipelines.  
- [View on Kaggle](https://www.kaggle.com/code/maazkhan636/mental-health-depression-detection-using-ml/notebook)  
+ **Sentiment Analysis for Mental Health Monitoring**  
+  Deep Learning + NLP project analyzing user text to monitor stress, depression, and anxiety indicators.  
+  *(Coming Soon on GitHub)*  
 
+ **GOOGL Stock Price Prediction**
+  Predicted GOOGL stock prices using ML models and technical indicators like SMA, RSI, and MACD.
+  [View on Kaggle](https://www.kaggle.com/code/maazkhan636/googl-stock-price-prediction-in-ml/notebook)
+  [GitHub link](https://github.com/maazkhan-ai/googl-stock-price-prediction)
 
-**Sentiment Analysis for Mental Health Monitoring**  
-Deep Learning + NLP project analyzing user text to monitor stress, depression, and anxiety indicators.  
- *(Coming Soon on GitHub)*  
+  **Mental Health Depression Detection**  
+  A supervised ML project analyzing mental health indicators using Scikit-learn pipelines.  
+  [View on Kaggle](https://www.kaggle.com/code/maazkhan636/mental-health-depression-detection-using-ml/notebook)  
+  [GitHub link](https://github.com/maazkhan-ai/mental-health-depression-detection)
 
-**More Projects Coming Soon...**  
- *Check out my [Repositories](https://github.com/maazkhan-ai?tab=repositories) for more projects!*
+ **More Projects Coming Soon...**  
+  *Check out my [Repositories](https://github.com/maazkhan-ai?tab=repositories) for more projects!*
 
 ---
 
