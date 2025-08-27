@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate **AI/ML Engineer** with a knack f
   *(Coming Soon on GitHub)*  
 
  **GOOGL Stock Price Prediction**  
-  Predicted GOOGL stock prices using ML models and technical indicators like SMA, RSI, and MACD.
+  Predicted GOOGL stock prices using ML models and technical indicators like SMA, RSI, and MACD.  
   [View on Kaggle](https://www.kaggle.com/code/maazkhan636/googl-stock-price-prediction-in-ml/notebook) | [GitHub link](https://github.com/maazkhan-ai/googl-stock-price-prediction)
 
   **Mental Health Depression Detection**  
