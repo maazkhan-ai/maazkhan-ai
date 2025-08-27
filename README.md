@@ -1,47 +1,50 @@
-# 👋 Hello! I'm Maaz Khan  
+# Hello! I'm Maaz Khan - AI/ML Engineer  
 
-🎓 BS Computer Science Graduate | 🇵🇰  
-🤖 AI, Machine Learning & Deep Learning Enthusiast  
-📊 Passionate about transforming data into actionable insights, Skilled in **Machine Learning, Deep Learning, and NLP**   
-🌱 Currently working on **Sentiment Analysis for Mental Health Monitoring**   
-🤝 Open to collaboration on **AI, ML, and Research Projects**
+Welcome to my GitHub profile! I'm a passionate **AI/ML Engineer** with a knack for building intelligent systems that solve real-world problems. I specialize in designing, developing, and deploying machine learning models, with a focus on creating innovative solutions that push the boundaries of artificial intelligence.
+
+- BS Computer Science Graduate | 🇵🇰  
+- AI, Machine Learning & Deep Learning Enthusiast  
+- To harness the power of AI and ML to create impactful, scalable, and ethical solutions that drive progress. 
+- Currently working on **Sentiment Analysis for Mental Health Monitoring**   
+- Open to collaboration on **AI, ML, and Research Projects**
  
 ---
 
-## 🛠️ Tech Stack  
+## Skills & Expertise  
 
-- **Programming Languages**: Python, SQL, R  
+- **Programming Languages**: Python, C++
 - **Machine Learning**: Scikit-learn, XGBoost, LightGBM  
-- **Deep Learning**: TensorFlow, Keras, PyTorch  
+- **Deep Learning**: TensorFlow, Keras, PyTorch, Hugging Face
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Plotly  
 - **Natural Language Processing (NLP)**: NLTK, SpaCy, Hugging Face Transformers  
 - **AI Applications**: Sentiment Analysis, Mental Health Monitoring, Predictive Modeling  
 - **Tools & Platforms**: Jupyter Notebook, Google Colab, Kaggle, Git & GitHub  
-- **Other Skills**: Data Cleaning, Feature Engineering, Model Evaluation, Model Deployment (Streamlit/FastAPI basics)  
+- **Other Skills**: Data Cleaning, Feature Engineering, Model Evaluation, Model Deployment (Streamlit/FastAPI basics)
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects  
 
-🔬 **Mental Health Depression Detection**  
+**Mental Health Depression Detection**  
 A supervised ML project analyzing mental health indicators using Scikit-learn pipelines.  
-📎 [View on Kaggle](https://www.kaggle.com/code/maazkhan636/mental-health-depression-detection-using-ml/notebook)  
+ [View on Kaggle](https://www.kaggle.com/code/maazkhan636/mental-health-depression-detection-using-ml/notebook)  
 
-🧠 **Sentiment Analysis for Mental Health Monitoring**  
+
+**Sentiment Analysis for Mental Health Monitoring**  
 Deep Learning + NLP project analyzing user text to monitor stress, depression, and anxiety indicators.  
-📎 *(Coming Soon on GitHub)*  
+ *(Coming Soon on GitHub)*  
 
-💡 **More Projects Coming Soon...**
-Currently working on Deep Learning models and advanced AI applications.
-
----
-
-## 🌐 Let's Connect  
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/maazkhano)  
-- 🧠 [Kaggle](https://www.kaggle.com/maazkhan636)  
-- 💬 DM for collaboration, ideas, or mentorship!  
+**More Projects Coming Soon...**
+ *Check out my [Repositories](#) for more projects!*
 
 ---
 
-⭐ *Thanks for visiting! Feel free to star or fork any of my projects.*  
+## Get in Touch
+-  [Email] [maazkhan.9ai@gmail.com]
+-  [LinkedIn](https://www.linkedin.com/in/maazkhan.ai)  
+-  [Kaggle](https://www.kaggle.com/maazkhan636)  
+-  I'm always excited to collaborate on AI/ML projects or discuss the latest advancements in the field!
+
+---
+
+Thanks for visiting my profile! Let's connect and build the future of AI together.
