@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate **AI/ML Engineer** with a knack f
 ## Featured Projects  
 
  **Sentiment Analysis for Mental Health Monitoring**  
-  Machine Learning tool detects mental health issues from social media, 93.6% acc, 77.7% F1, cross-domain.
+  Machine Learning tool detects mental health issues from social media, 93.6% acc, 77.7% F1, cross-domain.  
   [GitHub link](https://github.com/maazkhan-ai/sentiment-analysis-for-mental-health-monitoring)
 
  **GOOGL Stock Price Prediction**  
