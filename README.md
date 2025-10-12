@@ -26,8 +26,8 @@ Welcome to my GitHub profile! I'm a passionate **AI/ML Engineer** with a knack f
 ## Featured Projects  
 
  **Sentiment Analysis for Mental Health Monitoring**  
-  Deep Learning + NLP project analyzing user text to monitor stress, depression, and anxiety indicators.  
-  *(Coming Soon on GitHub)*  
+  Machine Learning tool detects mental health issues from social media, 93.6% acc, 77.7% F1, cross-domain.
+  [GitHub link](https://github.com/maazkhan-ai/sentiment-analysis-for-mental-health-monitoring)
 
  **GOOGL Stock Price Prediction**  
   Predicted GOOGL stock prices using ML models and technical indicators like SMA, RSI, and MACD.  
