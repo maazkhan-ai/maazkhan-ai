@@ -1,4 +1,4 @@
-# Hello! I'm Maaz Khan - AI/ML Engineer  
+# Hello! I'm Maaz Khan - ML Engineer  
 
 Welcome to my GitHub profile! I'm a passionate **AI/ML Engineer** with a knack for building intelligent systems that solve real-world problems. I specialize in designing, developing, and deploying machine learning models, with a focus on creating innovative solutions that push the boundaries of artificial intelligence.
 
@@ -32,10 +32,6 @@ Welcome to my GitHub profile! I'm a passionate **AI/ML Engineer** with a knack f
  **GOOGL Stock Price Prediction**  
   Predicted GOOGL stock prices using ML models and technical indicators like SMA, RSI, and MACD.  
   [View on Kaggle](https://www.kaggle.com/code/maazkhan636/googl-stock-price-prediction-in-ml/notebook) | [GitHub link](https://github.com/maazkhan-ai/googl-stock-price-prediction)
-
-  **Mental Health Depression Detection**  
-  A supervised ML project analyzing mental health indicators using Scikit-learn pipelines.  
-  [View on Kaggle](https://www.kaggle.com/code/maazkhan636/mental-health-depression-detection-using-ml/notebook) | [GitHub link](https://github.com/maazkhan-ai/mental-health-depression-detection)
 
  **More Projects Coming Soon...**  
   *Check out my [Repositories](https://github.com/maazkhan-ai?tab=repositories) for more projects!*
