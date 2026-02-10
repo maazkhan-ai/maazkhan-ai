@@ -1,25 +1,22 @@
-# Hello! I'm Maaz Khan - ML Engineer  
+# Hello! I'm Maaz Khan
 
-Welcome to my GitHub profile! I'm a passionate **AI/ML Engineer** with a knack for building intelligent systems that solve real-world problems. I specialize in designing, developing, and deploying machine learning models, with a focus on creating innovative solutions that push the boundaries of artificial intelligence.
+BS Computer Science Graduate | Early-career Data Scientist & ML Enthusiast | Exploring NLP & Applied ML
 
-- BS Computer Science Graduate | 🇵🇰  
-- AI, Machine Learning & Deep Learning Enthusiast  
-- To harness the power of AI and ML to create impactful, scalable, and ethical solutions that drive progress. 
-- Currently working on **Sentiment Analysis for Mental Health Monitoring**   
-- Open to collaboration on **AI, ML, and Research Projects**
- 
+- **Passionate about Data Science, Machine Learning, and NLP**  
+- **Currently learning and applying ML techniques on real-world datasets**  
+- **Working on: Sentiment Analysis for Mental Health Monitoring** 
+- **Open to:** Collaboration on **ML, NLP & Research Projects**
+
 ---
 
 ## Skills & Expertise  
 
-- **Programming Languages**: Python, C++
+- **Programming Languages**: Python, C++, SQL
 - **Machine Learning**: Scikit-learn, XGBoost, LightGBM  
-- **Deep Learning**: TensorFlow, Keras, PyTorch, Hugging Face
-- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-- **Natural Language Processing (NLP)**: NLTK, SpaCy, Hugging Face Transformers  
-- **AI Applications**: Sentiment Analysis, Mental Health Monitoring, Predictive Modeling  
-- **Tools & Platforms**: Jupyter Notebook, Google Colab, Kaggle, Git & GitHub  
-- **Other Skills**: Data Cleaning, Feature Engineering, Model Evaluation, Model Deployment (Streamlit/FastAPI basics)
+- **Deep Learning / NLP**: TensorFlow, Keras; experiment wit NLP models
+- **Data Visualization**: Pandas, NumPy, Matplotlib, Seaborn   
+- **Other Skills**: Data preprocessing, basic feature engineering, model evaluation
+- **Platforms & Tools**: Jupyter Notebook, Google Colab, Kaggle, Git & GitHub  
 
 ---
 
@@ -42,8 +39,5 @@ Welcome to my GitHub profile! I'm a passionate **AI/ML Engineer** with a knack f
 -  [Email](mailto:maazkhan.9ai@gmail.com)
 -  [LinkedIn](https://www.linkedin.com/in/maazkhan-ai)  
 -  [Kaggle](https://www.kaggle.com/maazkhan636)  
--  I'm always excited to collaborate on AI/ML projects or discuss the latest advancements in the field!
+-  Always open to **learning, collaborating, and exploring new ML & NLP projects.**
 
----
-
-Thanks for visiting my profile! Let's connect and build the future of AI together.
